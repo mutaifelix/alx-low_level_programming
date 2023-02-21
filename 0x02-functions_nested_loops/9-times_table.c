@@ -2,13 +2,13 @@
 #include "main.h"
 
 /**
- * times_table - prints the 9 times table, starting with 0
+ * times table - prints the 9 times table, starting with 0
  *
  * Return: Always 0 (Success)
  * Author: Mutaifelix
  */
 
-void times_table(void)
+void times table(void)
 {
 	int i;
 	int j;
