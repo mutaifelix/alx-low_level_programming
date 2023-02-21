@@ -11,7 +11,7 @@ int main(void)
 
 	for (f = 0; f < 8; f++)
 	{
-		_putchar(abe[f]);
+		_putchar(fel[f]);
 	}
 	_putchar('\n');
 	return (0);
